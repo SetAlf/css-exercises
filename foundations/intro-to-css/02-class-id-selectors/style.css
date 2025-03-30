@@ -1,0 +1,19 @@
+.class {
+    background-color: #ffa7a7;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size: x-large;
+    font-weight: 500;
+}
+.cooler.class {
+    font-size: xx-large;
+    
+}
+#two {
+    color: #0000ff;
+    font-size: 36px;
+}
+#four {
+    background-color: hsl(120, 100%, 75%);
+    font-size: xx-large;
+    font-weight:bold;
+}
